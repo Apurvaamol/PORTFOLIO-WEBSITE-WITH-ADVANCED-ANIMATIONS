@@ -38,6 +38,6 @@ TECHNOLOGIES USED:
 The project will primarily be built using modern web technologies, including:
 
 HTML5 and CSS3 for structuring content and styling the website.
-JavaScript/TypeScript for interactivity and animations, with frameworks such as React or Vue.js for modular and reusable components.
+JavaScript/TypeScript for interactivity and animations, with frameworks such as React for modular and reusable components.
 Animation Libraries: GSAP, Anime.js, or Three.js for advanced animations and 3D rendering.
 WebGL for rendering 3D graphics within the browser, allowing for highly interactive and immersive experiences.
